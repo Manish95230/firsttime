@@ -1,2 +1,3 @@
 # firsttime
-this is my firstt code
+this is my first code
+author manish apl
